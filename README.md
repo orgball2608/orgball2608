@@ -4,7 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quang-huynh-minh-020a79176/)](https://www.linkedin.com/in/quang-huynh-minh-020a79176/) [![Medium Badge](https://img.shields.io/badge/-@shelter-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/shelter)](https://medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-quanghuynhwtf@gmail.com.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quanghuynhwtf@gmail.com)](mailto:quanghuynhwtf@gmail.com)
-https://badges.pufler.dev/visits/{orgball2608}/{orgball2608}
+[![Visits Badge](https://badges.pufler.dev/visits/orgball2608/orgball2608)](https://badges.pufler.dev)
 
 I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at University of Science 🏫. I love to explore and learn about new things.
 
