@@ -8,7 +8,7 @@
 I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at University of Science 🏫. I love to explore and learn about new things.
 
 <p align="center">
-  <img src="https://images5.fanpop.com/image/photos/29000000/Cat-Gif-animals-29038732-400-533.gif" width="140">
+  <img src="https://media3.giphy.com/media/SM3OPfKLXiuFSOvHhD/giphy.gif?cid=ecf05e47lpttlaj08drs9u35qwn73jsfeuz0bnoj7dt7rfpy&rid=giphy.gif&ct=s" width="140">
   <img src="https://media2.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s" width="180">
   <img src="https://media4.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s" width="170">
 </p>
