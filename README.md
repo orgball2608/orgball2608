@@ -21,7 +21,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 
 <!--
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1?highlight=spotify:track:18uwL0vNUanqZH0ro2QcOP">
     <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
   </a>
 </div>
