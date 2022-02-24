@@ -10,7 +10,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 <p align="center">
   <img src="https://images5.fanpop.com/image/photos/29000000/Cat-Gif-animals-29038732-400-533.gif" width="140">
   <img src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180">
-  <img src="https://user-images.githubusercontent.com/627794/87238855-1589ee00-c3d6-11ea-8602-36c8c6cad686.gif" width="170">
+  <img src="https://www.pinterest.com/pin/487233253422887679/" width="170">
 </p>
 
 - 📫 How to reach me: **quanghuynhwtf@gmail.com**
