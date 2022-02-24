@@ -39,7 +39,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 </p>
 
 <p align="center"> 
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
+  <img src="https://i.gifer.com/J8ko.gif" width="400" />
 </p>
 
 ## ⚡ Technologies 🛠
