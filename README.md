@@ -13,6 +13,19 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
   <img src="https://media4.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s" width="180">
   <img src="https://media2.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s" width="170">
 </p>
+<div align="center">
+  <a href="https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1?highlight=spotify:track:18uwL0vNUanqZH0ro2QcOP">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
+
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
 - 📫 How to reach me: **quanghuynhwtf@gmail.com**
 
