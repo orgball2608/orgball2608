@@ -2,8 +2,8 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@MLX151-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-duclinhdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duclinhdev/)](https://www.linkedin.com/in/quang-huynh-minh-020a79176/) [![Medium Badge](https://img.shields.io/badge/-@duclinhdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@duclinhdev/)](https://medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-bestdeptrai123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bestdeptrai123@gmail.com)](mailto:quanghuynhwtf@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-duclinhdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quang-huynh-minh-020a79176/)](https://www.linkedin.com/in/quang-huynh-minh-020a79176/) [![Medium Badge](https://img.shields.io/badge/-@duclinhdev-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/shelter)](https://medium.com/)
+[![Gmail Badge](https://img.shields.io/badge/-bestdeptrai123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quanghuynhwtf@gmail.com)](mailto:quanghuynhwtf@gmail.com)
 
 I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at University of Science 🏫. I love to explore and learn about new things.
 
