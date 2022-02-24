@@ -39,7 +39,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 </p>
 
 <p align="center"> 
-  <img src="https://i.gifer.com/J8ko.gif" width="400" />
+  <img src="https://github.com/craftzdog/voxel-dog/blob/master/images/baked-textures.png" width="400" />
 </p>
 
 ## ⚡ Technologies 🛠
