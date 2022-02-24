@@ -9,10 +9,10 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 
 <p align="center">
   <img src="https://media3.giphy.com/media/SM3OPfKLXiuFSOvHhD/giphy.gif?cid=ecf05e47lpttlaj08drs9u35qwn73jsfeuz0bnoj7dt7rfpy&rid=giphy.gif&ct=s" width="140">
-  <img src="https://media2.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s" width="180">
-  <img src="https://media4.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s" width="170">
+  <img src="https://media4.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s" width="180">
+  <img src="https://media2.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s" width="170">
 </p>
-
+https://media2.giphy.com/media/dWTi2yiBnSq1K2MkTE/giphy.gif?cid=ecf05e47by0a2877muqydrspgxijdkwax9hgzw39o1c1tk9j&rid=giphy.gif&ct=s
 - 📫 How to reach me: **quanghuynhwtf@gmail.com**
 
 ## 💬 Connect with me:
