@@ -39,12 +39,11 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 </p>
 
 <p align="center"> 
-  <img src="https://github.com/craftzdog/voxel-dog/blob/master/images/baked-textures.png" width="600" />
+  <img src="https://github.com/craftzdog/voxel-dog/blob/master/images/baked-textures.png" width="500" />
+<img src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/cat.gif" width="300" />
 </p>
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/cat.gif" width="600" />
-</p>
+
 
 ## ⚡ Technologies 🛠
 Talk to me about:
