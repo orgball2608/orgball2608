@@ -63,8 +63,8 @@ My favorite Song !>
 
 ## ⚡ Technologies 🛠
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, TailwindCSS**.
-- Backend development using **Python**.
+- Front-end development using **HTML, Javascript, CSS, TailwindCSS, Next js**.
+- Backend development using **Node js**.
 - Making for **Relational Database Management Systems**.
 - Mobile application development using **React Native**.
 - Creating scalable cloud architecture using **AWS Cloud**.
