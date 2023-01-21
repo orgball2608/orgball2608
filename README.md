@@ -67,9 +67,9 @@ My favorite Song !>
 <a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Boostrap, React, TailwindCSS, Next js, Redux-toolkit, React Query**.
-- Backend development using **Node js, Express, MongoDB, Nest js, TypeOrm, MySQL**.
+- Backend development using **Node js, Express, MongoDB, Nest js, TypeOrm**.
 - Making for **Relational Database Management Systems**.
-- Mobile application development using **React Native**.
+- Mobile application development using ****.
 - Solving Data structure and algorithm questions in **Python and C++**.
  
 ## 🎯 Languages and Tools:
