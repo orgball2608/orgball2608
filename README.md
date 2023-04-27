@@ -62,7 +62,7 @@ Talk to me about:
 - Backend development using **Node js, GoLang, Gin, Express, NestJS, TypeOrm, MySQL, MongoDB**.
 - Making for **Relational Database Management Systems**.
 - Mobile application development using ****.
-- Solving Data structure and algorithm questions in **Python and C++**.
+- Solving Data structure and algorithm questions in **Go and C++**.
  
 ## 🎯 Languages and Tools:
 <a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
