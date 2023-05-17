@@ -1,8 +1,6 @@
 <h2> Hello everyone, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 [![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quang-huynh-minh-020a79176/)](https://www.linkedin.com/in/quang-huynh-minh-020a79176/) [![Medium Badge](https://img.shields.io/badge/-@shelter-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/shelter)](https://medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-quanghuynhwtf@gmail.com.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quanghuynhwtf@gmail.com)](mailto:quanghuynhwtf@gmail.com)
 
@@ -59,7 +57,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 <a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Boostrap, React, TailwindCSS, Next js, Redux-toolkit, React Query**.
-- Backend development using **Node js, GoLang, Gin, Express, NestJS, TypeOrm, MySQL, MongoDB**.
+- Backend development using **Node js, GoLang, Gin, Express, NestJS, TypeOrm, GORM, MySQL, MongoDB**.
 - Making for **Relational Database Management Systems**.
 - Mobile application development using ****.
 - Solving Data structure and algorithm questions in **Go and C++**.
