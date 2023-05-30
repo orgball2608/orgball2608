@@ -89,6 +89,7 @@ Talk to me about:
 ## <p align="left">🔥Profile stats</p>
 <a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+![](https://komarev.com/ghpvc/?username=orgball2608&label=PROFILE+VIEWS)
 <br>
 <div align=center>
 <a href="#" title="orgball2608">
