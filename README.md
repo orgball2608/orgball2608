@@ -56,7 +56,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 ## ⚡ Technologies 🛠
 <a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Boostrap, React, TailwindCSS, Next js, Redux-toolkit, React Query**.
+- Front-end development using **HTML, Javascript, CSS, Boostrap, React, TailwindCSS, Redux-toolkit, React Query**.
 - Backend development using **Node js, GoLang, Gin, Express, NestJS, TypeOrm,Prisma, GORM, MySQL, MongoDB, Redis**.
 - Making for **Relational Database Management Systems**.
 - Mobile application development using ****.
