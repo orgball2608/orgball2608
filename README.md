@@ -21,10 +21,10 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 </div>
 -->
 
-- 📫 How to reach me: **quanghuynhwtf@gmail.com**
+- 📫 How to reach me: **hmquangforwwork@gmail.com**
 
 ## 💬 Connect with me:
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/\nhen.deophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center">
 <a href="https://www.facebook.com/nhen.deophaitao">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
@@ -42,7 +42,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
 </a>
   
-<a href="mailto:quanghuynhwtf@gmail.com">
+<a href="mailto:hmquangforwork@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
 </a>
 </p>
@@ -54,16 +54,16 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 
 
 ## ⚡ Technologies 🛠
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/nhen.deophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Boostrap, React, TailwindCSS, Redux-toolkit, React Query**.
-- Backend development using **Node js, GoLang, Gin, Express, NestJS, TypeOrm,Prisma, GORM, MySQL, MongoDB, Redis**.
+- Backend development using **Node js, GoLang, Gin, Express, NestJS, TypeORM,Prisma, GORM, MySQL, MongoDB, Redis**.
 - Making for **Relational Database Management Systems**.
 - Mobile application development using ****.
 - Solving Data structure and algorithm questions in **Go and C++**.
  
 ## 🎯 Languages and Tools:
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/nhen.deophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -89,7 +89,7 @@ Talk to me about:
 </p>
 
 ## <p align="left">🔥Profile stats</p>
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/nhendeophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![](https://komarev.com/ghpvc/?username=orgball2608&label=PROFILE+VIEWS)
 <br>
@@ -103,7 +103,7 @@ Talk to me about:
 </div>
 
 ## <p align="left">🐍 Just a snake eating my contributions</p>
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/nhen.deophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align='center'>
 <img src="https://github.com/MLX15/MLX15/blob/master/github-contribution-grid-snake.svg">
 </p>
