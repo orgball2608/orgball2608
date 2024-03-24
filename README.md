@@ -1,9 +1,8 @@
 <h2> Hello everyone, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<a href="https://www.facebook.com/nhen.deophaitao"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/waang722"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MLX151)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waang
-)](https://www.linkedin.com/in/waang) [![Medium Badge](https://img.shields.io/badge/-@shelter-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/shelter)](https://medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-quanghuynhwtf@gmail.com.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quanghuynhwtf@gmail.com)](mailto:quanghuynhwtf@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waang) [![Medium Badge](https://img.shields.io/badge/-@shelter-03a57a?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/shelter) [![Gmail Badge](https://img.shields.io/badge/-quanghuynhwtf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:quanghuynhwtf@gmail.com)
+
 
 
 I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at University of Science 🏫. I love to explore and learn about new things.
@@ -25,9 +24,9 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 - 📫 How to reach me: **hmquangforwwork@gmail.com**
 
 ## 💬 Connect with me:
-<a href="https://www.facebook.com/\nhen.deophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/\waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center">
-<a href="https://www.facebook.com/nhen.deophaitao">
+<a href="https://www.facebook.com/waang722">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
 </a>
 
@@ -55,16 +54,16 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 
 
 ## ⚡ Technologies 🛠
-<a href="https://www.facebook.com/nhen.deophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
-- Front-end development using **HTML, Javascript, Typescript, CSS, Boostrap, React, TailwindCSS, Redux-toolkit, React Query**.
-- Backend development using **Node js, GoLang, Gin, Express, NestJS, TypeORM, Prisma, GORM, MongoDB, Redis**.
+- Front-end development using **HTML, Javascript, Typescript, CSS, Boostrap, React, TailwindCSS, Redux-toolkit**.
+- Backend development using **Nx, Express, NestJS, GoLang, Gin, Docker, TypeORM, Prisma, GORM, MongoDB, Redis, RabbitMQ, BullMQ, Weaviate, Websocket, Prometheus, Grafana, Cadvisor**.
 - Making for **Relational Database Management Systems**.
 - Mobile application development using ****.
-- Solving Data structure and algorithm questions in **Go and C++**.
+- Solving Data structure and algorithm questions in **Go**.
  
 ## 🎯 Languages and Tools:
-<a href="https://www.facebook.com/nhen.deophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -90,7 +89,7 @@ Talk to me about:
 </p>
 
 ## <p align="left">🔥Profile stats</p>
-<a href="https://www.facebook.com/nhendeophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![](https://komarev.com/ghpvc/?username=orgball2608&label=PROFILE+VIEWS)
 <br>
@@ -104,7 +103,7 @@ Talk to me about:
 </div>
 
 ## <p align="left">🐍 Just a snake eating my contributions</p>
-<a href="https://www.facebook.com/nhen.deophaitao/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
+<a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align='center'>
 <img src="https://github.com/MLX15/MLX15/blob/master/github-contribution-grid-snake.svg">
 </p>
