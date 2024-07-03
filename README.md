@@ -1,7 +1,7 @@
 <h2> Hello everyone, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <a href="https://www.facebook.com/waang722"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waang) [![Medium Badge](https://img.shields.io/badge/-@shelter-03a57a?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/shelter) [![Gmail Badge](https://img.shields.io/badge/-quanghuynhwtf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:quanghuynhwtf@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waang) [![Medium Badge](https://img.shields.io/badge/-@shelter-03a57a?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/shelter) [![Gmail Badge](https://img.shields.io/badge/-hmquangforwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hmquangforwork@gmail.com)
 
 
 
@@ -21,7 +21,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 </div>
 -->
 
-- 📫 How to reach me: **hmquangforwwork@gmail.com**
+- 📫 How to reach me: **hmquangforwork@gmail.com**
 
 ## 💬 Connect with me:
 <a href="https://www.facebook.com/\waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
@@ -57,7 +57,7 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 <a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
 - Front-end development using **HTML, Javascript, Typescript, CSS, Boostrap, React, TailwindCSS, Redux-toolkit**.
-- Backend development using **Nx, Express, NestJS, GoLang, Gin, Docker, TypeORM, Prisma, GORM, MongoDB, Redis, RabbitMQ, BullMQ, Weaviate, Websocket, Prometheus, Grafana, Cadvisor**.
+- Backend development using **Nx, Express, NestJS, GoLang, Gin, Docker, TypeORM, Prisma, GORM, MongoDB, Redis, RabbitMQ, BullMQ, Weaviate, Websocket, Prometheus, Grafana**.
 - Making for **Relational Database Management Systems**.
 - Mobile application development using ****.
 - Solving Data structure and algorithm questions in **Go**.
