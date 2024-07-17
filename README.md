@@ -25,11 +25,11 @@ I'm Minh Quang (Waang). I'm from Vietnam and currently working as a backend deve
 ## ⚡ Technologies 🛠
 <a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
-- Languages:  **Javascript/TypeScript, Golang**
+- Languages:  **Javascript/TypeScript, Golang.**
 - Front-end: **HTML, CSS, Boostrap, React, TailwindCSS, Redux-toolkit**.
 - Backend : **Nx, Express, NestJS, GoLang, Gin, TypeORM, Prisma, GORM, Redis, RabbitMQ, BullMQ, Websocket**.
 - Datbases: **Relational Database Management Systems, Redis, Weaviate**.
-- CI/CD: **Docker, GitHub Actions, CircleCI, Prometheus, Grafana**
+- CI/CD: **Docker, GitHub Actions, CircleCI, Prometheus, Grafana.**
 - Solving Data structure and algorithm questions: **Go**.
  
 ## 🎯 Languages and Tools:
