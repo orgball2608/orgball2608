@@ -28,7 +28,7 @@ Talk to me about:
 - Languages:  **Javascript/TypeScript, Golang**
 - Front-end: **HTML, CSS, Boostrap, React, TailwindCSS, Redux-toolkit**.
 - Backend : **Nx, Express, NestJS, GoLang, Gin, TypeORM, Prisma, GORM, Redis, RabbitMQ, BullMQ, Websocket**.
-- Datbases: **Relational Database Management Systems, Weaviate**.
+- Datbases: **Relational Database Management Systems, Redis, Weaviate**.
 - CI/CD: **Docker, GitHub Actions, CircleCI, Prometheus, Grafana**
 - Solving Data structure and algorithm questions: **Go**.
  
