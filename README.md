@@ -1,11 +1,11 @@
-<h2> Hello everyone, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hello everyone! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <a href="https://www.facebook.com/waang722"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waang) [![Medium Badge](https://img.shields.io/badge/-@shelter-03a57a?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/shelter) [![Gmail Badge](https://img.shields.io/badge/-hmquangforwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hmquangforwork@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=X&logoColor=white)](https://twitter.com/Shellofk) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waang) [![Medium Badge](https://img.shields.io/badge/-@shelter-03a57a?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/shelter) [![Gmail Badge](https://img.shields.io/badge/-hmquangforwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hmquangforwork@gmail.com)
 
 
 
-I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at University of Science 🏫. I love to explore and learn about new things.
+I'm Minh Quang (Waang). I'm from Vietnam and currently working as a backend developer with 1 year of experience. I love to explore and learn about new things.
 
 <p align="center">
   <img src="https://media3.giphy.com/media/SM3OPfKLXiuFSOvHhD/giphy.gif?cid=ecf05e47lpttlaj08drs9u35qwn73jsfeuz0bnoj7dt7rfpy&rid=giphy.gif&ct=s" width="170">
@@ -22,45 +22,15 @@ I'm Minh Quang (Waang) 😃. I'm from Vietnam and currently studying at Universi
 -->
 
 - 📫 How to reach me: **hmquangforwork@gmail.com**
-
-## 💬 Connect with me:
-<a href="https://www.facebook.com/\waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
-<p align="center">
-<a href="https://www.facebook.com/waang722">
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
-</a>
-
-<a href="https://github.com/orgball2608">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-</a>
-  
-<a href="https://dev.to/orgball2608">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-</a>
-	
-<a href="https://www.linkedin.com/in/waang/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
-</a>
-  
-<a href="mailto:hmquangforwork@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
-</a>
-</p>
-
-<p align="center"> 
-  <img src="https://github.com/craftzdog/voxel-dog/blob/master/images/baked-textures.png" width="500" />
-<img src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/cat.gif" width="300" />
-</p>
-
-
 ## ⚡ Technologies 🛠
 <a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 Talk to me about:
-- Front-end development using **HTML, Javascript, Typescript, CSS, Boostrap, React, TailwindCSS, Redux-toolkit**.
-- Backend development using **Nx, Express, NestJS, GoLang, Gin, Docker, TypeORM, Prisma, GORM, MongoDB, Redis, RabbitMQ, BullMQ, Weaviate, Websocket, Prometheus, Grafana**.
-- Making for **Relational Database Management Systems**.
-- Mobile application development using ****.
-- Solving Data structure and algorithm questions in **Go**.
+- Languages:  **Javascript/TypeScript, Golang**
+- Front-end: **HTML, CSS, Boostrap, React, TailwindCSS, Redux-toolkit**.
+- Backend : **Nx, Express, NestJS, GoLang, Gin, TypeORM, Prisma, GORM, Redis, RabbitMQ, BullMQ, Websocket**.
+- Datbases: **Relational Database Management Systems, Weaviate**.
+- CI/CD: **Docker, GitHub Actions, CircleCI, Prometheus, Grafana**
+- Solving Data structure and algorithm questions: **Go**.
  
 ## 🎯 Languages and Tools:
 <a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
@@ -90,17 +60,18 @@ Talk to me about:
 
 ## <p align="left">🔥Profile stats</p>
 <a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 ![](https://komarev.com/ghpvc/?username=orgball2608&label=PROFILE+VIEWS)
 <br>
 <div align=center>
 <a href="#" title="orgball2608">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orgball2608&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="orgball2608">
+</a>
+<a href="#" title="orgball2608">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=orgball2608&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
+</a>
+<a href="#" title="orgball2608">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=orgball2608&theme=darcula&&border_color=61dafb&hide_border=true&background=20232a">
+</a>
 
 ## <p align="left">🐍 Just a snake eating my contributions</p>
 <a href="https://www.facebook.com/waang722/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
