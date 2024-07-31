@@ -27,7 +27,7 @@ I'm Minh Quang (Waang). I'm from Vietnam and currently working as a backend deve
 Talk to me about:
 - Languages:  **Javascript/TypeScript, Go.**
 - Front-end: **HTML, CSS, React, Boostrap, TailwindCSS, Redux-toolkit**.
-- Backend : **Nx, Express, NestJS, Gin, TypeORM, Prisma, GORM, Redis, RabbitMQ, BullMQ, Websocket**.
+- Backend : **Nodejs, Nx, Express, NestJS, Gin, TypeORM, Prisma, GORM, Redis, RabbitMQ, BullMQ, Websocket**.
 - Datbases: **Relational Database Management Systems, Redis, Weaviate**.
 - CI/CD: **Docker, GitHub Actions, CircleCI, Prometheus, Grafana.**
 - Solving Data structure and algorithm questions: **Go**.
