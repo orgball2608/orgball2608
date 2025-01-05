@@ -28,7 +28,7 @@ Talk to me about:
 - Front-end: **HTML, CSS, React, Boostrap, TailwindCSS, Redux-toolkit**.
 - Backend : **Nodejs, Nx, Express, NestJS, Gin, Echo, Prisma, GORM, Redis, RabbitMQ, BullMQ, Websocket**.
 - Databases: **Relational Database Management Systems, MongoDB, Redis, Weaviate**.
-- CI/CD: **Docker, GitHub Actions, CircleCI, Prometheus, Grafana.**
+- CI/CD: **Docker, GitHub Actions, CircleCI, Prometheus, Grafana, Loki.**
 - Solving Data structure and algorithm questions: **Go**.
 
 ## 🎯 Languages and Tools:
