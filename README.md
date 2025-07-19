@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waang) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/orgball2608/) [![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=X&logoColor=white)](https://twitter.com/Shellofk) [![Medium Badge](https://img.shields.io/badge/-@Shellofk-03a57a?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/@Shellofk) [![Gmail Badge](https://img.shields.io/badge/-hmquangforwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hmquangforwork@gmail.com) 
 
-I'm Minh Quang (Waang). I'm from Vietnam and currently working as a backend developer with 1.5 years of experience. I love to explore and learn about new things.
+I'm Minh Quang (Waang). I'm from Vietnam and currently working as a backend developer with 2 years of experience. I love to explore and learn about new things.
 
 <p align="center">
   <img src="https://media3.giphy.com/media/SM3OPfKLXiuFSOvHhD/giphy.gif?cid=ecf05e47lpttlaj08drs9u35qwn73jsfeuz0bnoj7dt7rfpy&rid=giphy.gif&ct=s" width="170">
