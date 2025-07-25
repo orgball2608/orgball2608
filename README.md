@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waang) [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/orgball2608/) [![Twitter Badge](https://img.shields.io/badge/-@Shellofk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=X&logoColor=white)](https://twitter.com/Shellofk) [![Medium Badge](https://img.shields.io/badge/-@Shellofk-03a57a?style=flat-square&labelColor=000000&logo=Medium)](https://medium.com/@Shellofk) [![Gmail Badge](https://img.shields.io/badge/-hmquangforwork@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:hmquangforwork@gmail.com) 
 
-I'm Minh Quang (Waang). I'm from Vietnam and currently working as a backend developer with 2 years of experience. I love to explore and learn about new things.
+Hello, I'm Minh Quang! I'm a passionate and results-driven Software Engineer with over 2 years of specialized experience in backend development and distributed systems. I have a proven track record of building scalable, high-performance, and reliable applications. I thrive on exploring new technologies and solving complex engineering challenges.
 
 <p align="center">
   <img src="https://media3.giphy.com/media/SM3OPfKLXiuFSOvHhD/giphy.gif?cid=ecf05e47lpttlaj08drs9u35qwn73jsfeuz0bnoj7dt7rfpy&rid=giphy.gif&ct=s" width="170">
@@ -12,15 +12,31 @@ I'm Minh Quang (Waang). I'm from Vietnam and currently working as a backend deve
 </p>
 
 - 📫 How to reach me: **hmquangforwork@gmail.com**
+- 🌍 Based in Ho Chi Minh City, Vietnam
 
 ## ⚡ Technologies 🛠
-Talk to me about:
-- Languages:  **Javascript/TypeScript, Go.**
-- Front-end: **HTML, CSS, React, Boostrap, TailwindCSS, Redux-toolkit**.
-- Backend : **Nodejs, Nx, Express, NestJS, Gin, Echo, Prisma, GORM, Redis, RabbitMQ, BullMQ, Websocket**.
-- Databases: **Relational Database Management Systems, MongoDB, Redis, Weaviate**.
-- CI/CD: **Docker, GitHub Actions, CircleCI, Prometheus, Grafana, Loki.**
-- Solving Data structure and algorithm questions: **Go**.
+I primarily work within the Go and TypeScript/JavaScript ecosystems, focusing on building robust and scalable backend services. Here are some of the key technologies I'm proficient with:
+
+-   **Languages:**
+    -   Go, JavaScript/TypeScript
+
+-   **Backend Development:**
+    -   **Frameworks/Runtimes:** Node.js, NestJS, Gin, Echo
+    -   **APIs & Messaging:** gRPC, RabbitMQ, Kafka, WebSocket, RESTful APIs
+    -   **ORMs:** GORM, Prisma
+
+-   **Databases & Caching:**
+    -   **SQL:** PostgreSQL, MySQL
+    -   **NoSQL:** MongoDB, Redis
+    -   **Vector DB:** Weaviate
+
+-   **DevOps & Observability:**
+    -   **CI/CD & Automation:** Docker, Jenkins, GitHub Actions
+    -   **Monitoring:** Prometheus, Grafana, Loki
+    -   **Code Quality:** SonarQube
+
+-   **Frontend (Familiarity):**
+    -   React, HTML/CSS, TailwindCSS
 
 ## 🎯 Languages and Tools:
 <div align="center">
