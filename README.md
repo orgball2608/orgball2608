@@ -56,8 +56,11 @@ Talk to me about:
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" valign="middle">
+      <td align="center" valign="middle">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=orgball2608&theme=react&border_color=61dafb&hide_border=true&background=20232a" alt="Streak Stats" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://leetcode-stats.vercel.app/?username=orgball2608&theme=Dark" alt="LeetCode Stats" />
       </td>
     </tr>
   </table>
