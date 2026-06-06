@@ -49,10 +49,10 @@ Talk to me about:
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" valign="middle">
-        <img width="315" src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs/?username=orgball2608&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+        <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orgball2608&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
       </td>
       <td align="center" valign="middle">
-        <img width="434" src="https://github-readme-stats.anuraghazra.vercel.app/api?username=orgball2608&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
+        <img width="434" src="https://github-readme-stats.vercel.app/api?username=orgball2608&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats" />
       </td>
     </tr>
     <tr>
